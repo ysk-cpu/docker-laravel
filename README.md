@@ -28,7 +28,7 @@ dockerでlaravelを動かすテンプレートがインターネット上にあ�
 
 ```
 (terminal)
-git clone git@github.com:ucan-lab/docker-laravel.git
+git clone https://github.com/ucan-lab/docker-laravel.git
 cd infrastructure
 ```
 
